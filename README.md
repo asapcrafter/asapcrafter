@@ -1,9 +1,10 @@
 ### Hi there, I'm Stephen
 
-- 🌊 I'm currently a student at UC Santa Barbara
+## I'm a Student and Web Developer
+- 🌊 I currently study at UC Santa Barbara for medicine
 - 🔭 I'm constantly learning new things 
-- ☕ Feel free to check out my projects down below
-- 🌱 I'm always looking to collaborate with others
+- 🌱 I'm always looking to collaborate with others so feel free to send me an email
+- ☕ Check out some of my projects down below or at my [website][portfolio]!
 
 ### Connect with me:
 
@@ -13,5 +14,5 @@
 
 
 
-[portfolio]: https:stephentrieu.com
+[portfolio]: https://www.stephentrieu.com/
 [linkedin]: https://www.linkedin.com/in/stephen-trieu-2170011b8/
