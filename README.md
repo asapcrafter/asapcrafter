@@ -1,4 +1,9 @@
-### Hey y'all, I'm Stephen.
+### Hi there, I'm Stephen
+
+- 🌊 I'm currently a student at UC Santa Barbara
+- 🔭 I'm constantly learning new things 
+- ☕ Feel free to check out my projects down below
+- 🌱 I'm always looking to collaborate with others
 
 ### Connect with me:
 
