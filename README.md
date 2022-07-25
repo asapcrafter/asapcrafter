@@ -1,7 +1,7 @@
 ### Hi there, I'm Stephen
 
-## I'm a Student and Web Developer
-- 🌊 I currently study at UC Santa Barbara for medicine
+## I'm a student and web developer
+- 🌊 I currently study at UC Santa Barbara 
 - 🔭 I'm constantly learning new things 
 - 🌱 I'm always looking to collaborate with others so feel free to send me an email
 - ☕ Check out some of my projects down below or at my [website][portfolio]!
