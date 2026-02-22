@@ -1,7 +1,6 @@
 ### Hi there, I'm Stephen
 
-## I'm a student and web developer
-- 🌊 I currently study at UC Santa Barbara 
+## I'm a web developer
 - 🔭 I'm constantly learning new things 
 - 🌱 I'm always looking to collaborate with others so feel free to send me an email
 - ☕ Check out some of my projects down below or at my [personal website][portfolio]!
